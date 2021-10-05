@@ -2,16 +2,16 @@
 
 Group Project 
 
-For the lesson of Databases NTUA our task was to create the database for a hotel and the web service (control UI) for the staff of the hotel. 
-
 A large hotel unit, ASDF Palace, provides hospitality services
 managed rooms and restaurants, bars, gyms, meeting rooms, etc.
+
 The company is already taking successful steps in its digital transformation
 its functions. Under the threat of the COVID-19 pandemic, the company implements all
 protocols for the safety of staff and visitors and at the same time the
 management wishes to take additional measures to minimize risks and
 effects on the health of employees and visitors, as well as on timely reception
 measures by the company in the event of a case.
+
 The goal is to minimize customer contact with shared switches and
 handles, doors and lifts, and no transactions (with credit
 or cash) for the use of the hotel services. In case someone from
