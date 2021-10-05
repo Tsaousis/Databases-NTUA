@@ -1,6 +1,6 @@
 # Databases-NTUA
 
-*Group Project 
+*Group Project*
 
 A large hotel unit, ASDF Palace, provides hospitality services
 managed rooms and restaurants, bars, gyms, meeting rooms, etc.
